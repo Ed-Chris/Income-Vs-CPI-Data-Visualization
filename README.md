@@ -7,15 +7,9 @@ This project investigates whether Canadian earnings have kept pace with the cost
 - [Overview](#overview)
 - [Introduction](#introduction)
 - [Features](#features)
-- [Installation](#installation)
-- [Usage](#usage)
-- [Project Structure](#project-structure)
 - [Datasets](#datasets)
 - [Data Cleaning](#data-cleaning)
 - [Guiding Questions and Visualizations](#guiding-questions-and-visualizations)
-- [Contributing](#contributing)
-- [Contact](#contact)
-- [Acknowledgments](#acknowledgments)
 
 ## Introduction
 An article posted on January 6, 2023, by Global News highlights how difficult it has been for Canadians to keep up with the price of goods, emphasizing how the affordability of goods has become one of the biggest sources of stress among Canadians. The average Canadian is also struggling to earn a living wage, making it more difficult to decide whether to focus on feeding their children a healthier diet or cut necessary expenses to make their monthly rent. Across Canada, we see inflation rise alongside wages, but wages seem not to be keeping up at the same pace.
